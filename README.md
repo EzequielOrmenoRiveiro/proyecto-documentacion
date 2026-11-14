@@ -16,9 +16,19 @@ Tabla de contenidos
 
 
 
+HEAD
 \## Contribuciones
 
 
 
 El proyecto permite organizar y documentar el desarrollo web mediante Git y GitHub.
+
+
+
+Los colaboradores pueden participar añadiendo documentación y mejorando los contenidos del proyecto.
+
+
+
+
+rama-backend
 
